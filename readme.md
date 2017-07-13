@@ -15,6 +15,7 @@ This is a tcp sockets program in c that performs the below operations:
 <li>Must have makefile installed</li>
 <li>Preferably run the program in a linux environment</li>
 </ol>
+
 ## How to run the program
 
 - Run the command make all in the terminal to run the makefile script.
