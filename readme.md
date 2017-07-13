@@ -3,17 +3,18 @@ https://github.com/muraguri64/Tcp_Socket_Program
 # Tcp Sockets program in C
 
 This is a tcp sockets program in c that performs the below operations:
-	1)Calculates tax of an integer by running the command "<b>tax:</b><i> your integer</i>"
-	2)Converts a string to uppercase by running the command "<b>upper:</b><i> your string</i>"
-	3)Counts the number of characters in a string by running the command "<b>count:</b><i> your string</i>"
-
+<ol>
+	<li>Calculates tax of an integer by running the command "<b>tax:</b><i> your integer</i>"</li>
+	<li>Converts a string to uppercase by running the command "<b>upper:</b><i> your string</i>"</li>
+	<li>Counts the number of characters in a string by running the command "<b>count:</b><i> your string</i>"</li>
+</ol>
 	
 ## Prerequisites
-
-1)Must have gcc compiler installed
-2)Must have makefile installed
-3)Preferably run the program in a linux environment
-
+<ol>
+<li>Must have gcc compiler installed</li>
+<li>Must have makefile installed</li>
+<li>Preferably run the program in a linux environment</li>
+</ol>
 ## How to run the program
 
 - Run the command make all in the terminal to run the makefile script.
